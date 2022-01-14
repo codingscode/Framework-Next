@@ -1,0 +1,41 @@
+
+no terminal da pasta escolhida:
+   npx create-next-app exercicos-1
+   """
+   
+     npm run dev
+       Starts the development server.
+   
+     npm run build
+       Builds the app for production.
+   
+     npm start
+       Runs the built app in production mode.
+   
+     We suggest that you begin by typing:
+   
+     cd exercicos-1
+     npm run dev
+   """
+
+
+terminal pasta exercicios-1:
+   npm run dev
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
