@@ -21,9 +21,9 @@ no terminal da pasta escolhida:
 
 terminal pasta exercicios-1:
    npm run dev
-   
 
 
+ver http://localhost:3000/primeiro
 
 
 
