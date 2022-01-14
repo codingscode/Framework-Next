@@ -24,7 +24,8 @@ terminal pasta exercicios-1:
 
 
 ver http://localhost:3000/primeiro
-
+    http://localhost:3000/basicos/primeiro
+    
 
 
 
