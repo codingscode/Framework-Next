@@ -27,7 +27,7 @@ ver http://localhost:3000/primeiro
     http://localhost:3000/basicos/primeiro
     
 
-
+    http://localhost:3000/basicos/segundo
 
 
 
