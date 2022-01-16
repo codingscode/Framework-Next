@@ -30,6 +30,66 @@ ver http://localhost:3000/primeiro
     http://localhost:3000/basicos/segundo
 
 
+http://localhost:3000/basicos/jsx1
+
+http://localhost:3000/basicos/jsx2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
