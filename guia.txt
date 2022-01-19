@@ -37,7 +37,7 @@ http://localhost:3000/basicos/jsx2
 
 http://localhost:3000/basicos/lista1
 
-
+http://localhost:3000/basicos/lista2
 
 
 
