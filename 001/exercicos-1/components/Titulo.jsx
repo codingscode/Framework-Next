@@ -1,13 +1,13 @@
 
 
-export default function Titulo(info) {
-   console.log(info)
+export default function Titulo(props) {
+   console.log(props)
 
 
    return (
       <>
-         <h1>{ info.principal }</h1>
-         <h2>{ info.secundario }</h2>
+         <h1>{ props.principal }</h1>
+         <h2>{ props.secundario }</h2>
       </>
    )
 }
