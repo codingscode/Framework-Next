@@ -43,7 +43,14 @@ http://localhost:3000/basicos/lista2
 
 http://localhost:3000/basicos/usandoTitulo
 
+ver console
+"""
+{
+  principal: 'página de cadastro',
+  secundario: 'incluir, alterar e excluir coisas!'
+}
 
+"""
 
 
 
