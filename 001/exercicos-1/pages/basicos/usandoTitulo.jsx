@@ -8,8 +8,8 @@ export default function usandoTitulo() {
        <>
           <h1>Usando Titulo</h1>
           <h2>subtitulo</h2>
-          <Titulo />
-          <Titulo />
+          <Titulo principal={'página de cadastro'} secundario={'incluir, alterar e excluir coisas!'} />
+          
        </>
     )
 }

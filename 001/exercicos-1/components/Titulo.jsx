@@ -1,11 +1,11 @@
 
 
-export default function Titulo() {
+export default function Titulo({ principal, secundario }) {
 
    return (
       <>
-         <h1>Titulo</h1>
-         <h2>subtitulo do Titulo</h2>
+         <h1>{ principal }</h1>
+         <h2>{ secundario }</h2>
       </>
    )
 }
