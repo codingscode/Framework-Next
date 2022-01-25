@@ -58,9 +58,11 @@ http://localhost:3000/css/integracao2
 
 https://github.com/css-modules/css-modules
 
+propriedades são somente leitura
 
+http://localhost:3000/basicos/propsSomenteLeitura
 
-
+mostrando erro
 
 
 
