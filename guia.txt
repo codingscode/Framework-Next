@@ -64,7 +64,7 @@ http://localhost:3000/basicos/propsSomenteLeitura
 
 mostrando erro
 
-
+http://localhost:3000/css/usandoEstilo
 
 
 
