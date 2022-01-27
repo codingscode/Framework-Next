@@ -67,6 +67,10 @@ mostrando erro
 http://localhost:3000/css/usandoEstilo
 
 
+terminal pasta 001:
+   npx create-next-app tabuleiro
+   
+
 
 
 
