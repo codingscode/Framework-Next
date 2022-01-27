@@ -9,9 +9,9 @@ export default function Home() {
   
   return (
      <div className={ styles.container } >
+       <Subdivisao preta />
        <Subdivisao />
-       <Subdivisao />
-       <Subdivisao />
+       <Subdivisao preta />
      </div>
   )
 
