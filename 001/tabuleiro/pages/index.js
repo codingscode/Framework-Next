@@ -10,10 +10,14 @@ export default function Home() {
   
   return (
      <div className={ styles.container } >
-       {/* <Subdivisao preta />
-       <Subdivisao />
-       <Subdivisao preta /> */}
-       <Linha />
+       <Linha preta />
+       <Linha  />
+       <Linha preta />
+       <Linha  />
+       <Linha preta />
+       <Linha  />
+       <Linha preta />
+       <Linha  />
      </div>
   )
 

@@ -8,15 +8,15 @@ export default function Linha(props) {
 
    return (
       <div className={estilos.linha} >
-         <Subdivisao />
-         <Subdivisao preta />
-         <Subdivisao />
-         <Subdivisao preta />
-         <Subdivisao />
-         <Subdivisao preta />
-         <Subdivisao />
-         <Subdivisao preta />
-      </div>
+         <Subdivisao preta={props.preta} />
+         <Subdivisao preta={!props.preta} />
+         <Subdivisao preta={props.preta} />
+         <Subdivisao preta={!props.preta} />
+         <Subdivisao preta={props.preta} />
+         <Subdivisao preta={!props.preta} />
+         <Subdivisao preta={props.preta} />
+         <Subdivisao preta={!props.preta} />
+       </div>
    )
 }
 
