@@ -71,6 +71,7 @@ terminal pasta 001:
    npx create-next-app tabuleiro
    
 
+http://localhost:3000/render/repeticao1
 
 
 
