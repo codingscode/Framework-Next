@@ -7,25 +7,15 @@ export default function repeticao1() {
       'Mário', 'Julia', 'Larissa', 'Gioconda', 'Paulo', 'Simon', 'Roberto', 'Laura'
    ]
    
-   function renderizarLista() {
+   function renderizarLista(iteravel) {
    
-      const itens = []
-      
-      for (let i = 0; i < listaAprovados.length; i++) {
-         itens.push(<li key={i} >{listaAprovados[i]}</li>)
-      }
-      
-      return (
-         <>
-            {itens}
-         </>
-      )
-   
+            
+      return iteravel.map( (cada, i) => <li key={i} >{cada}</li> )
    }
    
    return (
       <ul>
-         {renderizarLista()}
+         {renderizarLista(listaAprovados)}
       </ul>
    )
 }
