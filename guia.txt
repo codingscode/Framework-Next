@@ -73,7 +73,7 @@ terminal pasta 001:
 
 http://localhost:3000/render/repeticao1
 
-
+http://localhost:3000/render/repeticao2
 
 
 
