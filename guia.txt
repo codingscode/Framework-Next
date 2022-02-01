@@ -82,6 +82,7 @@ http://localhost:3000/basicos/componenteComFilhos
 
 agora aparece
 
+http://localhost:3000/render/condicional2
 
 
 
