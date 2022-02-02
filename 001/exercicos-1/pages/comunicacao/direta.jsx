@@ -6,7 +6,7 @@ export default function direta() {
 
    return (
       <div>
-         <Pai />
+         <Pai familia="Teixeira" nome="Rodrigo Padrão" />
       </div>
    )
 }
