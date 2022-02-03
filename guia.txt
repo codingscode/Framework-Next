@@ -86,8 +86,9 @@ http://localhost:3000/render/condicional2
 
 http://localhost:3000/comunicacao/direta
 
+http://localhost:3000/basicos/botao
 
-
+clicando , ver o console do browser
 
 
 

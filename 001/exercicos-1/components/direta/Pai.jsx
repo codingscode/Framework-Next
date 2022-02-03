@@ -12,13 +12,3 @@ export default function Pai(props) {
       </div>
    )
 }
- 
-
-
-
-
-
-
-
-
-

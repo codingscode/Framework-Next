@@ -7,9 +7,3 @@ export default function Item(props) {
       <li>{props.conteudo}</li>
    )
 }
-
-
-
-
-
-
