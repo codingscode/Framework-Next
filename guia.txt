@@ -90,8 +90,9 @@ http://localhost:3000/basicos/botao
 
 clicando , ver o console do browser
 
+http://localhost:3000/comunicacao/indireta1
 
-
+ver console
 
 
 

@@ -20,7 +20,7 @@ export default function botao() {
    }
 
    return (
-       
+
       <div>
          <button onClick={acao1} >Click #01</button>
          <button onClick={acao2} >Click #02</button>
@@ -33,18 +33,4 @@ export default function botao() {
       </div>
    )
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
