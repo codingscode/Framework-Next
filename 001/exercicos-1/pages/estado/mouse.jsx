@@ -6,7 +6,7 @@ export default function mouse() {
    const estilos = { display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', backgroundColor: "#222", color: "#fff", height: '100vh' } 
 
    function quandoMove(ev) {
-      console.log(ev)
+      console.log(ev.clientX, ev.clientX)
    }
 
    return (
