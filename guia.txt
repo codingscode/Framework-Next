@@ -94,6 +94,7 @@ http://localhost:3000/comunicacao/indireta1
 
 ver console
 
+http://localhost:3000/estado/mouse
 
 
 
