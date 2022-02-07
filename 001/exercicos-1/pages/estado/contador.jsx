@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import ContadorDisplay from '../../components/ContadorDisplay'
 
 
 
@@ -11,11 +12,14 @@ export default function contador() {
    
 
    return (
-      <div>
+      <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', 
+           alignItems: 'center' }} >
          <h1>contador</h1>
-         <div>Valor: {numero}</div><br />
-         <button onClick={mais} >+</button>
-         <button onClick={menos} >-</button>
+         <ContadorDisplay numero={numero} />
+         <div>
+            <button onClick={mais} >+</button>
+            <button onClick={menos} >-</button>
+         </div>
       </div>
    )
 }
