@@ -5,11 +5,11 @@ import { useState } from 'react'
 export default function contador() {
    const [ numero, setNumero ] = useState(0)
 
-   function mais() {
+   const mais = () => {
       setNumero(numero + 1)
    }
 
-   function menos() {
+   const menos = () => {
       setNumero(numero - 1)
    }
 
