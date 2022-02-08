@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
 
+
 export default function formulario() {
    const [ valor, setValor ] = useState('inicial')
 
@@ -9,17 +10,10 @@ export default function formulario() {
    }
 
    return (
-      <div>
-         <input type="text" value={valor} />
+      <div style={{ display: 'flex', flexDirection: 'column' }} >
+         <span>{valor}</span>
+         <input type="text" value={valor} onChange={ e => setValor(e.target.value) } />
          <button onClick={alterarInput} >Alterar</button>
       </div>
    )
 }
-
-
-
-
-
-
-
-

@@ -110,7 +110,7 @@ http://localhost:3000/estado/formulario
 
 altera só clicando
 
-
+agora altera tanto clicando quanto digitando
 
 
 
