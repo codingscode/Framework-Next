@@ -13,7 +13,7 @@ export default function contador() {
 
    return (
       <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', 
-           alignItems: 'center' }} >
+           alignItems: 'center' }} >.
          <h1>contador</h1>
          <ContadorDisplay numero={numero} />
          <div>

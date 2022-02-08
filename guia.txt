@@ -104,10 +104,11 @@ agora muda
 
 http://localhost:3000/estado/contador
 
+https://pt-br.reactjs.org/docs/forms.html
 
+http://localhost:3000/estado/formulario
 
-
-
+altera só clicando
 
 
 
