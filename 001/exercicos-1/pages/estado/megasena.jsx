@@ -19,7 +19,7 @@ export default function megasena() {
    return (
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }} >
          <h1>Mega Sena</h1>
-         <div style={{ display: 'flex', flexWrap: 'wrap' }} >
+         <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }} >
             {renderizarNumeros()}
          </div>
          <div>
