@@ -5,7 +5,7 @@ import { Component } from 'react'
 export default class Contador extends Component {
 
    state = {
-      numero: 7
+      numero: this.props.valorInicial ?? 0  // 1º se existir, 2º valor padrão
    }
    
 
