@@ -117,6 +117,54 @@ http://localhost:3000/estado/megasena
 
 tirando warning, já começa com valores
 
+http://localhost:3000/classe/contador
+
+usando classes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
