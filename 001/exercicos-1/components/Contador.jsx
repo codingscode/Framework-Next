@@ -8,15 +8,16 @@ export default class Contador extends Component {
       numero: this.props.valorInicial ?? 0  // 1º se existir, 2º valor padrão
    }
    
-   constructor(props) {
-      super(props)
       
-      this.inc = this.inc.bind(this)
-   }
-   
-   inc() {
+   inc = () => {
       this.setState({
          numero: this.state.numero + 1
+      })
+   }
+   
+   dec = () => {
+      this.setState({
+         numero: this.state.numero - 1
       })
    }
    
@@ -27,6 +28,7 @@ export default class Contador extends Component {
             <h1>Contador (usando classe)</h1>
             <h2>{this.props.valorInicial}</h2>
             <h2>{this.state.numero}</h2>
+            <button onClick={ this.dec } >-</button>
             <button onClick={ this.inc } >+</button>
          </div>
       )

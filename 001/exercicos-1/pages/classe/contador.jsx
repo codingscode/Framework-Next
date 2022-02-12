@@ -8,7 +8,7 @@ export default class ContadorPage extends Component {
       return (
          <>
             <Contador valorInicial={100} />
-            <Contador />
+            
          </>
       )
    }
