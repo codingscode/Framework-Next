@@ -6,7 +6,7 @@ export default class ContadorPage extends Component {
 
    render() {
       return (
-         <Contador />
+         <Contador valorInicial={100} />
       )
    }
 }
