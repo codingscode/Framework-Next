@@ -123,7 +123,7 @@ usando classes
 
 já pega o valor
 
-
+escolhendo valor de passo
 
 
 

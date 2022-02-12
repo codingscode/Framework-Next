@@ -29,7 +29,8 @@ export default class Contador extends Component {
             <h1>Contador (usando classe)</h1>
             <h2>{this.props.valorInicial}</h2>
             <h2>{this.state.numero}</h2>
-            <input type="number" min={1} max={10} value={this.state.passo} />
+            <input type="number" min={1} max={10} value={this.state.passo} 
+                   onChange={ ev => this.setState({ passo: +ev.target.value }) } />
             <button onClick={ this.dec } >-</button>
             <button onClick={ this.inc } >+</button>
          </div>
