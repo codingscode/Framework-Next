@@ -1,5 +1,5 @@
 
-import { Comp1, Comp2 } from '../../components/modulo/funcionais'
+import Padrao, { Comp1, Comp2 } from '../../components/modulo/funcionais'
 
 
 export default function teste() {
@@ -8,6 +8,7 @@ export default function teste() {
       <div>
          <Comp1 />
          <Comp2 />
+         <Padrao />
       </div>
    )
 }

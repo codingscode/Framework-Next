@@ -14,9 +14,10 @@ export const Comp2 = () => {
    )
 }
 
+export default function Comp3() {
 
-
-
-
-
+   return (
+      <h2>Componente 3</h2>
+   )
+}
 
