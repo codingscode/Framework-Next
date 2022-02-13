@@ -127,7 +127,10 @@ escolhendo valor de passo
 
 http://localhost:3000/modulo/teste
 
+criar um arquivo chamado tsconfig.json vazio
 
+no terminal:
+   npm install --save-dev @types/react
 
 
 
