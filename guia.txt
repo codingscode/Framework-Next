@@ -136,6 +136,15 @@ no terminal:
 http://localhost:3000/ts/exemplo
 
 
+------------------------------------------------------
+
+na pasta 002 terminal:
+   npx create-next-app p01_next-basico
+
+no projeto:
+   npm run dev
+
+
 
 
 
